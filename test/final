@@ -1,0 +1,15 @@
+.
+├── blah
+├── blah.blah
+└── sorted
+    ├── bar
+    │   └── foo.bar
+    ├── f
+    │   └── w.t.f
+    ├── noextension
+    │   ├── hello
+    │   └── world
+    └── zzy
+        └── xy.zzy
+
+7 directories, 5 files
