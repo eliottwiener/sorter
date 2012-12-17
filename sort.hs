@@ -6,7 +6,7 @@ slash :: FilePath
 slash = [pathSeparator]
 
 dirRoot :: FilePath
-dirRoot = "sortedbyextension" ++ slash
+dirRoot = "sorted" ++ slash
 
 ext :: FilePath -> FilePath
 ext f = let ext = takeExtension f
